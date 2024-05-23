@@ -1,0 +1,5 @@
+package com.empresabox.entities;
+
+public class Dependente {
+
+}
